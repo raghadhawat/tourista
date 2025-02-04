@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "466645973956",
+    "project_id": "tourista-74c8b",
+    "storage_bucket": "tourista-74c8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466645973956:android:541a49949772fe7d094291",
+        "android_client_info": {
+          "package_name": "com.example.tourista"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466645973956-8ir69rhakggpl14uthmbeevu3vqg84fu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tourista",
+            "certificate_hash": "5f76080babc0f995ccc7507c970c1203ea0d4ffb"
+          }
+        },
+        {
+          "client_id": "466645973956-jesh12hp6p7muqr7coerdodf3nkd2pjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHCCNxctPuovRmVAJC0MjX03d1nM1DNvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466645973956-5vrflkgc9bk6nho94p4j0dhd8v6f60sh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466645973956-lod9uur970c8s4u7r9mj3t7g0ltbipas.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tourista"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
